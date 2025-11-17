@@ -1,0 +1,6 @@
+{
+  "name": "interactive-recipe-finder",
+  "version": "0.1.0",
+  "scripts": { "dev": "vite", "build": "vite build", "serve": "vite preview" },
+  "dependencies": { "vue": "^3.3.0", "vue-router": "^4.1.0" }
+}
